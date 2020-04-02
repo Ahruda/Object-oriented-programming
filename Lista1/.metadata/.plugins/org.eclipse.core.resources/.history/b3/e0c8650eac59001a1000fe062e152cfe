@@ -1,0 +1,9 @@
+package ex1;
+
+public class Pessoa {
+	
+	int idade;
+	String nome,cpf,sexo;
+	
+	setNome()
+}

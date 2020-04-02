@@ -1,0 +1,18 @@
+package ex3;
+
+public class Main {
+	public static void main(String[] args) {
+		Triangulo triangulo1 = new Triangulo(45,45,90);
+		Triangulo triangulo2 = new Triangulo(55,45,80);
+		Triangulo triangulo3 = new Triangulo(65,75,40);
+		
+		int[] tipo = new int[3];
+		
+		tipo[0] = triangulo1.getTriangulo();
+		
+		if(tipo[i] == 1) {
+			System.out.println("Triangulo "+i+" é um triangulo retângulo");
+		}else {
+			System.out.println("Triangulo "+i+" 1 é um triangulo comum");
+		}
+}

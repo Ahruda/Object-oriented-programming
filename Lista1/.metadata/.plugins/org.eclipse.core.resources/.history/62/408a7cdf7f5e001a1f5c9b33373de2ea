@@ -1,0 +1,9 @@
+package ex3;
+
+public class Main {
+	public static void main(String[] args) {
+		Triangulo triangulo1 = new Triangulo(45,45,90);
+		Triangulo triangulo2 = new Triangulo(55,45,80);
+		Triangulo triangulo2 = new Triangulo(65,35,40);
+
+}

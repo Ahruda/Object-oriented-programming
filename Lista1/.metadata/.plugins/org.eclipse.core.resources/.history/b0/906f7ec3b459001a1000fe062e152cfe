@@ -1,0 +1,15 @@
+package ex2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		/*
+		 * Tipo 1 - Aquático
+		 * Tipo 2 - Terrestre
+		 * Tipo 3 - Aéreo
+		 * */
+		Animal animal1 = new Animal(1);
+		Animal animal2 = new Animal(2);
+		Animal animal3 = new Animal(3);
+	}
+}

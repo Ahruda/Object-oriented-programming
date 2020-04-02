@@ -1,0 +1,10 @@
+package ex6;
+
+public class Cruzadinha {
+	String palavra1 = "CLASSE";
+	String palavra2 = "STRING";
+	String palavra3 = "ATRIBUTOS";
+	String palavra4 = "NEW";
+	
+	public String getPalavra(int palavra);
+}

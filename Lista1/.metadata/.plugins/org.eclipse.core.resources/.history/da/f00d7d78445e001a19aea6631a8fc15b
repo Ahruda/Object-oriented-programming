@@ -1,0 +1,8 @@
+package ex5;
+
+public class Conta {
+	String titular;
+	double saldo;
+	
+	
+}

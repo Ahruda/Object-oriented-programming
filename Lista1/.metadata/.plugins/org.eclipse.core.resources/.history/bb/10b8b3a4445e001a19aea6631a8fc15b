@@ -1,0 +1,10 @@
+package ex5;
+
+public class Conta {
+	String titular;
+	double saldo;
+	
+	public Conta(String titular) {
+		this.titular = titular;
+	}
+}

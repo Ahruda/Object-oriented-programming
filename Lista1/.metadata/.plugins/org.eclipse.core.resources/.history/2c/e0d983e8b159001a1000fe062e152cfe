@@ -1,0 +1,13 @@
+package ex1;
+
+public class Main {
+	public static void main(String[] args) {
+		Pessoa pessoa1 = new Pessoa();
+		
+		pessoa1.setNome("Leonardo Arruda");
+		pessoa1.setSexo("Masculino");
+		pessoa1.setIdade(20);
+		pessoa1.setCpf("999.888.777-66");
+		System.out.printf("O nome eh %s",pessoa1.getNome());
+	}
+}

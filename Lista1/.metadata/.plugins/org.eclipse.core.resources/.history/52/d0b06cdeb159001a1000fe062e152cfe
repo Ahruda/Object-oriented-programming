@@ -1,0 +1,10 @@
+package ex1;
+
+public class Main {
+	public static void main(String[] args) {
+		Pessoa pessoa1 = new Pessoa();
+		
+		pessoa1.setNome("Leonardo Arruda");
+		System.out.printf("O nome eh %s",pessoa1.getNome());
+	}
+}

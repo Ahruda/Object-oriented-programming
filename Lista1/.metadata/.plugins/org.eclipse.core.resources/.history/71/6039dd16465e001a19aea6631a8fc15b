@@ -1,0 +1,8 @@
+package ex5;
+
+public class Main {
+	public static void main(String[] args) {
+		Conta conta1 = new Conta("Leonardo Arruda",500.00);
+		Conta conta2 = new Conta("Fulano de tal",-500.00);
+	}
+}

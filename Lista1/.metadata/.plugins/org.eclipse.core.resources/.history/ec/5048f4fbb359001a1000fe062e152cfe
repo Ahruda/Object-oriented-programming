@@ -1,0 +1,13 @@
+package ex2;
+
+public class Animal {
+
+	private String tipo;
+	
+	public Animal(int opcao) {
+		switch (opcao){
+			case 1:
+				this.tipo = "Aquático";
+		}
+	}
+}

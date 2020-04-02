@@ -1,0 +1,7 @@
+package ex3;
+
+public class Triangulo {
+	double angA, angB, angC;
+	
+	public Triangulo(double angA,double angB,double angC)
+}
