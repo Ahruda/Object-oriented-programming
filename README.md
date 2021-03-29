@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Exercícios com Orientação a Objeto - Java 
+Exercícios com Orientação a Objetos - Java 
 </h4>
 
 ## 💻 Sobre o repositório
