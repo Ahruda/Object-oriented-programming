@@ -1,10 +1,10 @@
 <h1 align="center"> 
-Exercicios com Orientação a Objeto - Java 
+Exercícios com Orientação a Objeto - Java 
 </h4>
 
 ## 💻 Sobre o repositório
 
-Nesse repositório estão os códigos dos exercicios desenvolvidos na disciplina de programação orientada a objetos do meu curso de graduação. Escritos em Java 8. 
+Nesse repositório estão os códigos dos exercícios desenvolvidos na disciplina de programação orientada a objetos do meu curso de graduação. Escritos em Java 8. 
 
 ## 🚀 Como executar os códigos
 ### Pré-requisitos
