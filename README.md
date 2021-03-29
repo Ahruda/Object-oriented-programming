@@ -1,14 +1,16 @@
 <h1 align="center"> 
 Exercicios com Orientação a Objeto - Java 
 </h4>
+
 ## 💻 Sobre o repositório
+
 Nesse repositório estão os códigos dos exercicios desenvolvidos na disciplina de programação orientada a objetos do meu curso de graduação. Escritos em Java 8. 
 
 ## 🚀 Como executar os códigos
-Pré-requisitos
+### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina o JDK 8.
 
-Após isso é só compilar ou executar os arquivos desejados.
+Após isso é só compilar os códigos utilizando o comando javac ou executar os arquivos que já estão compilados.
 
 ## 👨‍💻 Signature
 
